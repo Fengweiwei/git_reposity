@@ -72,5 +72,6 @@ int main(void) {
 	//this is a git test
 	//a rollback test
 	//a third modify
+	//we can use vi in git shell
 	return 0;
 }
