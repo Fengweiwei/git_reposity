@@ -73,5 +73,9 @@ int main(void) {
 	//a rollback test
 	//a third modify
 	//we can use vi in git shell
+	/*
+	$git add,we store modify in index region,
+	$git commit,we move index region to branch
+	*/
 	return 0;
 }
